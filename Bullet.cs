@@ -5,11 +5,11 @@ using UnityEngine;
 public class Bullet : MonoBehaviour
 {
     //Destroy
-    public float lifeDuration = //D³ugoœæ lotu twojego pocisku np 2f;
+    public float lifeDuration = //Dlugosc lotu twojego pocisku np 2f;
     private float lifeTimer;
 
     private Rigidbody bulletRB;
-    public float bulletVelocity = //Prêdkoœæ lotu twojego pocisku np 5f;
+    public float bulletVelocity = //Predkosc lotu twojego pocisku np 5f;
 
     void Start()
     {
