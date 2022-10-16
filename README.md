@@ -1,1 +1,1 @@
-Simple unity bullet mechanic
+Simple Unity bullet mechanics
